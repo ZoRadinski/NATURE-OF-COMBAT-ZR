@@ -1,0 +1,4358 @@
+fileFormatVersion: 2
+guid: 1e9ec53cc0361c94e85b220056a86a5a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forestyback_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e3292d461e8964f9ae7f591333b22e
+      internalID: 1434392268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ac0e4d7e1245242bb965b6972c3397
+      internalID: -303669832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940b60b44c79a1a4e924ea4d03434819
+      internalID: 28018551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14262a2e63ba3a247a7ce57cb2fa5102
+      internalID: 1320339347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5517a41cab188499b5e625faf21e8b
+      internalID: 1495653690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a21fd028ff4314bbce64b4a6ba9c73
+      internalID: 783445960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_6
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f0d630a37690a49a33d7ab1af4e9e4
+      internalID: 239431748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_7
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dd5a56049ce89438ded24b91442c83
+      internalID: -925785099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_8
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1791e4f1b4dde4cbde685511e7e0e6
+      internalID: 116184268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_9
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec370adc61fdb024ea30c6ee82ee258f
+      internalID: 1487426782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_10
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fbeff55f6291c45a628a4a41d27fab
+      internalID: -1135683605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_11
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967307da83138844e8948ddbcb0c6e4c
+      internalID: -2077854617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_12
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5984e1235a0567e42936aef12fb4ec7d
+      internalID: 176932044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_13
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a995c837231e703499949bfc3e03bff2
+      internalID: 1787834054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_14
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a673fd4e4203d9b4580d47efce5286a2
+      internalID: -1391619613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_15
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835880439fd47a34dbc27cf8ebd3c923
+      internalID: 502761966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_16
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918cb34d3043d9744bce497a0e773e6f
+      internalID: -1289952622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_17
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e3570d5fa50d646b538f69e77e93f9
+      internalID: -854772482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_18
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87530aef4cad2544c8c93b8cfb3102a6
+      internalID: 136740255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_19
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d9c55cf15c4194f968991c115ebf9d
+      internalID: -1703969283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_20
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab852e2de25f54b4daeee7ba4d0ee959
+      internalID: 2020492889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_21
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c6fb1886c3dca4794de7e28a13dce6
+      internalID: -553950409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_22
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba43726ddb1f6c4b9fd8739d76eae71
+      internalID: 1630734821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_23
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 746.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e44266c1b3bb944af25d1920cca742
+      internalID: 541992523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f3ae76e48e20346bc52a56d1706fc8
+      internalID: 159375952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9257fdb22ea32d40a4ae34067c7fe4a
+      internalID: -1937571950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_26
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbb7ad3e204ed5499c9cfdf5570ae6b
+      internalID: -775695804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811c846349ecb4b4e8e11c35dc266275
+      internalID: 619337543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783e9c2efe55340439a9d545badb676d
+      internalID: 1188434016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_29
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34a5c0433b219b4a8d484ab762699d0
+      internalID: 2083946213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_30
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1170ad9d8b67e0c4f929f5b0348124f2
+      internalID: 909723365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_31
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299ec0fc3cefc5449e984c1514a2f3c
+      internalID: 577425810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_32
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233ffd81d97e35e4ea5c18f260f3053e
+      internalID: 1214952903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_33
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5259932c9f9aa84db658e2b09a13a9c
+      internalID: 410531138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_34
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa43aa2a45b35cf479dd8f50a0794a3c
+      internalID: 585936479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_35
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3afe58b61d14584aa10b2dc8787ef6e
+      internalID: 153707403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_36
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d3c813ed7654843b2560e1da9d6991
+      internalID: 674744828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_37
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01fbd2525772ad49a82e309ad4e5982
+      internalID: -491362295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_38
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebe023c95e29d24688d67e3752f7383
+      internalID: -1556943374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_39
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b08d6e20203ff4dbefebb480d2ae6c
+      internalID: -841358540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_40
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f4bf2c0c59d2c4ea59ec34a9c76ab3
+      internalID: 1596723204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_41
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dac2c6d76cff5c40829dcb0de30f135
+      internalID: -1984128158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_42
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90726830c44d634da7bb46bd18a518f
+      internalID: 2075927232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_43
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873ac84fcc30dfc4a983a62b4e55e491
+      internalID: 1320744482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_44
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003be3a7a07c44349a0d2796b8b7fae9
+      internalID: -1533723100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_45
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8049b83cad6d0ed4e9b759c8d792a1fe
+      internalID: 209667065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_46
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d17a661a8a20e742a1f99afc4fd7920
+      internalID: 177634056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_47
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 640.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8aeeb2d3f06d34ead1f60adc757945
+      internalID: 1721111236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_48
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa96970bd01a3ce4f8858cc64e4eaa46
+      internalID: 1895676184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_49
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850b7343630879e46a4a51c97b2896be
+      internalID: -747560281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_50
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88f02dd3eada734ba4a77d19d023ca6
+      internalID: 901472343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_51
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffffd21800d8464884f1a187c3b2e15
+      internalID: -1637415284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_52
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4ff345f28b4834c995cc64b6e1a324
+      internalID: -1282921559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_53
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f27deda4fea4664cbeaf5b158a4ef71
+      internalID: 1310370263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_54
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59d86da06ab0514786194e7ec47fc88
+      internalID: 1168912682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_55
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11a6c7d2ad6c1b4bbe8bdb854b1899c
+      internalID: 727995467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_56
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e59ad8f3f83344488be171ad238df6a
+      internalID: 89577347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_57
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c5b7bfbf36bb41ad7b73ccecef5df
+      internalID: 1296538870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_58
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cc85f2499d34341985be2e652e6599
+      internalID: 1332931307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_59
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03df95be1f2548f41a5f0cb9d694eb92
+      internalID: 23327697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_60
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcd9ba804ab434429d8466aa0ef55c6
+      internalID: 1144503977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_61
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d41363de3761634db770d3ce89f8155
+      internalID: 1660614497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_62
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed626bca9f441a4b854127051463a33
+      internalID: 1658194238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_63
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f064035a92b2646a14957115fb85c2
+      internalID: -755539252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_64
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de622d77375c7554fa64b2605363d0c9
+      internalID: -2088619060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_65
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24791b8df32ca640956e8b5e28ca130
+      internalID: -1831342544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_66
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc948665bf419f4c823aa5aa077a49e
+      internalID: -996840603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_67
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ac96bb05059174797d62a01fdd8862
+      internalID: -712219844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_68
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335f2cbbe5c72ea45b489911e208a45a
+      internalID: 686844846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_69
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f2e9c8905bd374c93c64038934b017
+      internalID: -794900885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_70
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83f3c1cc74992647a8673efd35f6636
+      internalID: 2142215792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_71
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 534.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff958b36aa5a4e46aa3c6c40c32b2af
+      internalID: 320311302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_72
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a551b78eec898242bf5c1e0c732ed43
+      internalID: 1048576642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_73
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95ba1f49421db44c8fcf20c6837d1be
+      internalID: 1178195633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_74
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f763bdd497d4c49a60ffe7dfbdac7d
+      internalID: 188999850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_75
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75311e49c67ec9c409db7a1ff132d60a
+      internalID: -172268592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_76
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b17ab924235194a85b183aeea64196
+      internalID: 1172233006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_77
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b46a3ac93e288944bf82839db1ff395
+      internalID: 1698156344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_78
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e073b87dc35c74fa2721ad246a9ebc
+      internalID: -2033822676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_79
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952145835e846d64eaf41c206e1b6268
+      internalID: -1033963888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_80
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbd85807fcf40d4a8e85e8b14dc881f
+      internalID: -849346347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_81
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987639486964f8a4092d82731db90f22
+      internalID: -456515846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_82
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8893bb799ced7c54cbf2729023d497cc
+      internalID: 2128320239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_83
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145be8cd6415cc6438a19cceaca0d2fc
+      internalID: 232301910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_84
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de5d43ba6e3a7c43b407edf50704502
+      internalID: -1019745703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_85
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc49150a65e61e45a631ead4480c5e7
+      internalID: 1322861042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_86
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fd1e92cf5661d42a18656ca3de6b8e
+      internalID: 1565448508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_87
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7519324a6294063459210f20dd581513
+      internalID: 144419985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_88
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994acf80019c2274fb13d2ff6bf547df
+      internalID: -868654304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_89
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6515dcaec0618e8429da7d3728caadc1
+      internalID: 480182234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_90
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5507d0dda5844b47ad1b218bd093d08
+      internalID: -179650849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_91
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e30ce5dbc19a54ca87074e59fcabbb
+      internalID: -1476384115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_92
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85e3b03ff06a9240bf711527008474b
+      internalID: -1153743534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_93
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88759071edc408b4a92da7d27476dddc
+      internalID: 114849427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_94
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad70a8ed5c54664a818f99dcf385e9b
+      internalID: 96196167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_95
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 428.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea51b2063ebb7b4793a1fdf8e6f8857
+      internalID: -1594934656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_96
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437d760508c85ba4ba1719e60f77f2e5
+      internalID: 1355017219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_97
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bad80db88526040a96f91977bc9627
+      internalID: 758012802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_98
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901336fef48f1c34f9ddb32639b38ff4
+      internalID: 450494746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_99
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab312e3b8d3ffb04faadd69dd939b1ce
+      internalID: -448335180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_100
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d331e4719a09230439654b969926cd05
+      internalID: -894026850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_101
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbc3288c9edfed4a913e778201a4f8a
+      internalID: -927039607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_102
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd410b321c00d741b4e712413be3890
+      internalID: -1497797379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_103
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd1045ddbaad0143838788aeb1d8236
+      internalID: -628628284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_104
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed96cbb763a23a4193bfbb137a0d70d
+      internalID: -2107823538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_105
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c934661d5cff742b58c9ad877fd9f8
+      internalID: 437089823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_106
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9343cf1c5e8c2479946042a64268a8
+      internalID: -1270892887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_107
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4212a809ac56c49ba06866d851b482
+      internalID: 1758830776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_108
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3631b1094cdb0c84c96e309a168a469a
+      internalID: 1536210142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_109
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c01ee0c676f7843a4f029804c802fb
+      internalID: 604364235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_110
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b4c136bb4ffad418dfdb6901c1c4cf
+      internalID: -1550706386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_111
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f374f5a509ab19745b3e390a937ae1c6
+      internalID: -1031088781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_112
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fffa99e11b0ea418208dee30ec193d
+      internalID: -959859963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_113
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b85151a35ba51c4eab555d5f3103124
+      internalID: 1452057950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_114
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51d311e6fe0c794995f63cab93d272e
+      internalID: -1278970574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_115
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395fbb4da7d84cf43b12a4dd6dac46c7
+      internalID: -168704892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_116
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be1bd50361c8054faa81f924e50db03
+      internalID: -129425039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_117
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac12c433bb4c594684d0871bbf744d5
+      internalID: -527315448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_118
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf168e5ad2b15d4e989b2378dcea6f3
+      internalID: 2145737842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_119
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 322.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdba02454f56dfe4ea9c44544960bc38
+      internalID: -177485366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_120
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab809729bd024f94d8e84dc7144067fd
+      internalID: -1603407879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_121
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85c4c5920b837a4da20555ddff047fd
+      internalID: 1441492404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_122
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3367cd7d92737e14cbca822c11b8cd2b
+      internalID: -549806141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_123
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143a9b137b13a88408e87668d0715740
+      internalID: -1382926841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_124
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7203405b8837ae449a5f3aca8b5054e
+      internalID: -942459533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_125
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfaf5491cbe5394faacb2622b59d4a7
+      internalID: -642226958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_126
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c52a4cc43e29ab41ba6b44a3ac62ffb
+      internalID: -2050604968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_127
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35d61be76932604ca3fdc429eeb3c9d
+      internalID: 639635470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_128
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288bd80304c46734f876e2d3725eac28
+      internalID: 513284702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_129
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cb8c7c646fddd49960d3c38a417e10
+      internalID: 613590345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_130
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5af94cce30306438a9c8e976bb01af
+      internalID: 1609839336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_131
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8c7c35574e40044808932adc33ec52
+      internalID: -1250787990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_132
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc7c2e8bf91b154c9733552c4a6553e
+      internalID: 1933329098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_133
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce081190cf1983b40a1777c2658cc399
+      internalID: -784180874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_134
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589092f7052deb14eb88d103dc668383
+      internalID: 58373578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_135
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0659265824f660f47900d6ef9208cb12
+      internalID: 1160455520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_136
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1a04a205406994db2767be024a7c53
+      internalID: 210218614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_137
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb79c85e65cac04c936fbda4db6bf9a
+      internalID: 1790354540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_138
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32517c240123a71468616c9935269ab2
+      internalID: 2121495642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_139
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00e693e5030c074eaa66471b53098fc
+      internalID: -1193682841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_140
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cef25caeeffc7d4bba5d83e709cc517
+      internalID: -2117826369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_141
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef043983b96c1a24b9784a852cbfcd71
+      internalID: -1078102376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_142
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4a13bf330f88b49a11a1a9262bb68b
+      internalID: -243607649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_143
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 216.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9640c4cc1b28c43b5d972baa2186b7
+      internalID: -1137933991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_144
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eb07068d72ab645900b537d8e0a019
+      internalID: -1511369182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_145
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72173da8c0a23c4487c2ff724e58273
+      internalID: 2102551144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_146
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f087b406a5e84d4e9d42f1cafcaa5a4
+      internalID: 1982317012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_147
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554130766ee461e4eae9fbc39a7ec4ec
+      internalID: 188547208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_148
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58043e83fcffd9c4383f318da703b244
+      internalID: -1664398645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_149
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e9c5d9bd966594994f88358cde558c
+      internalID: 514175415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_150
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0083e2393b97a347a1441ed44971307
+      internalID: -737614532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_151
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2182ae9f02bee034c87ff99cce4e3ec7
+      internalID: 640694682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_152
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a79a0a8c98f4a94bae71dbda302f055
+      internalID: 797131644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_153
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f16fdc36da0e644a5ff5a936f08924
+      internalID: 451109516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_154
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f3da8744c36cd4298f2ad281de6791
+      internalID: 810001556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_155
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38e61f583e6c1246bbd4539bb00b6b6
+      internalID: 1275934175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_156
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e87fec3bea0487449571fb8b965fe33
+      internalID: -806116283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_157
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff3c0cb92914534c834975a6809894d
+      internalID: 812314348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_158
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2361db04829ad45955e1b4b3c797de
+      internalID: 1030007053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_159
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1525ef00f60912241ae657dfc392eb58
+      internalID: 545325395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_160
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831037412f9654428c78a7b2f456f65
+      internalID: -249317714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_161
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5834c97d00d0f44909336bda9328e8
+      internalID: 1662418506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_162
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f69fa141f05fa64e8fb82f6e2911345
+      internalID: -1239336631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_163
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411ae35a2caf3714c8f9099195ed5000
+      internalID: 1324253635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_164
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e7ce8e5207510448f91a9e3a1d5fbc
+      internalID: -748262668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_165
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e406896343855f4da70fba434a75205
+      internalID: 1240786681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_166
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae1d4b452dd17546a92f0d3e2fbf796
+      internalID: -913932560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_167
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 110.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06fecc1bf2af8d439c47e985d7e9cf9
+      internalID: 406136286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_168
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb71fd3a6ba98dc49915af98579d1698
+      internalID: 1643968064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_169
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3f0ca9d41ece94cae7281a3eb4e54e
+      internalID: 1676392333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_170
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128a2e1388ddee343a581b8157d9e8d8
+      internalID: -112954577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_171
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737c89125933eab48a9438efbaef971d
+      internalID: -445050435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_172
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed4fe27cba4e7f46a210b675544c0b4
+      internalID: -779075875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_173
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd334513f53801499a28a17f3e4e1a7
+      internalID: -1632310698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_174
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a6bd576812737449088b0da611f306
+      internalID: 821668878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_175
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e945fd9f13902444babcdca2c6d2b831
+      internalID: -55231476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_176
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b4599a90e051d439ef0342d38cf4cc
+      internalID: -642962194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_177
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40024d78ac7fcba40b24a70fa039d53e
+      internalID: 491522644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_178
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80867c02a5e0fcf418a4f5381267692a
+      internalID: 622220334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_179
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d8cc643a82ec849806b855a0f031e3
+      internalID: -1494707620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_180
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0591faa92be8134d9b1470a2d279965
+      internalID: 511977889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_181
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719fa6864083db34b8116bdca06791b8
+      internalID: -624342078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_182
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea5f7975325161489293af7e7700699
+      internalID: 205045882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_183
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c4838feb8226d4bb02e835546fce8b
+      internalID: -181288689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_184
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115452ef43149e445bec5946399d2f45
+      internalID: -1821466765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_185
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024de97e67364384b825469ad7cc4b33
+      internalID: 1000427180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_186
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0f413cb75452840bd80380a015bd1a
+      internalID: -1622836376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_187
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd90236b1d8ad6448a9796f33af856d6
+      internalID: -1209272381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_188
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d439836571fffd34b90faa3ebb97d30c
+      internalID: -1402281502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_189
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b29dcfed993134abf200e609a81426
+      internalID: 1152961812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_190
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc51eeb56bc322468db7186032bb636
+      internalID: 1838427762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forestyback_191
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 4.375
+        width: 82.291664
+        height: 106.625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e31505e5ddab643b41b8463f7771a4
+      internalID: 238388942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      forestyback_20: 2020492889
+      forestyback_53: 1310370263
+      forestyback_148: -1664398645
+      forestyback_157: 812314348
+      forestyback_33: 410531138
+      forestyback_181: -624342078
+      forestyback_168: 1643968064
+      forestyback_97: 758012802
+      forestyback_109: 604364235
+      forestyback_161: 1662418506
+      forestyback_71: 320311302
+      forestyback_175: -55231476
+      forestyback_11: -2077854617
+      forestyback_45: 209667065
+      forestyback_83: 232301910
+      forestyback_38: -1556943374
+      forestyback_7: -925785099
+      forestyback_141: -1078102376
+      forestyback_158: 1030007053
+      forestyback_104: -2107823538
+      forestyback_34: 585936479
+      forestyback_103: -628628284
+      forestyback_113: 1452057950
+      forestyback_102: -1497797379
+      forestyback_43: 1320744482
+      forestyback_107: 1758830776
+      forestyback_127: 639635470
+      forestyback_72: 1048576642
+      forestyback_17: -854772482
+      forestyback_123: -1382926841
+      forestyback_79: -1033963888
+      forestyback_3: 1320339347
+      forestyback_176: -642962194
+      forestyback_169: 1676392333
+      forestyback_8: 116184268
+      forestyback_87: 144419985
+      forestyback_98: 450494746
+      forestyback_16: -1289952622
+      forestyback_29: 2083946213
+      forestyback_59: 23327697
+      forestyback_57: 1296538870
+      forestyback_76: 1172233006
+      forestyback_120: -1603407879
+      forestyback_167: 406136286
+      forestyback_133: -784180874
+      forestyback_177: 491522644
+      forestyback_55: 727995467
+      forestyback_132: 1933329098
+      forestyback_185: 1000427180
+      forestyback_116: -129425039
+      forestyback_183: -181288689
+      forestyback_85: 1322861042
+      forestyback_139: -1193682841
+      forestyback_63: -755539252
+      forestyback_54: 1168912682
+      forestyback_101: -927039607
+      forestyback_23: 541992523
+      forestyback_86: 1565448508
+      forestyback_12: 176932044
+      forestyback_100: -894026850
+      forestyback_121: 1441492404
+      forestyback_189: 1152961812
+      forestyback_179: -1494707620
+      forestyback_156: -806116283
+      forestyback_65: -1831342544
+      forestyback_122: -549806141
+      forestyback_173: -1632310698
+      forestyback_178: 622220334
+      forestyback_90: -179650849
+      forestyback_13: 1787834054
+      forestyback_0: 1434392268
+      forestyback_56: 89577347
+      forestyback_180: 511977889
+      forestyback_89: 480182234
+      forestyback_160: -249317714
+      forestyback_108: 1536210142
+      forestyback_112: -959859963
+      forestyback_153: 451109516
+      forestyback_1: -303669832
+      forestyback_174: 821668878
+      forestyback_142: -243607649
+      forestyback_40: 1596723204
+      forestyback_46: 177634056
+      forestyback_78: -2033822676
+      forestyback_152: 797131644
+      forestyback_88: -868654304
+      forestyback_143: -1137933991
+      forestyback_6: 239431748
+      forestyback_15: 502761966
+      forestyback_50: 901472343
+      forestyback_81: -456515846
+      forestyback_170: -112954577
+      forestyback_75: -172268592
+      forestyback_2: 28018551
+      forestyback_62: 1658194238
+      forestyback_28: 1188434016
+      forestyback_22: 1630734821
+      forestyback_19: -1703969283
+      forestyback_117: -527315448
+      forestyback_131: -1250787990
+      forestyback_94: 96196167
+      forestyback_145: 2102551144
+      forestyback_126: -2050604968
+      forestyback_105: 437089823
+      forestyback_164: -748262668
+      forestyback_39: -841358540
+      forestyback_130: 1609839336
+      forestyback_125: -642226958
+      forestyback_82: 2128320239
+      forestyback_26: -775695804
+      forestyback_106: -1270892887
+      forestyback_91: -1476384115
+      forestyback_166: -913932560
+      forestyback_144: -1511369182
+      forestyback_41: -1984128158
+      forestyback_25: -1937571950
+      forestyback_172: -779075875
+      forestyback_48: 1895676184
+      forestyback_135: 1160455520
+      forestyback_58: 1332931307
+      forestyback_80: -849346347
+      forestyback_163: 1324253635
+      forestyback_154: 810001556
+      forestyback_162: -1239336631
+      forestyback_5: 783445960
+      forestyback_4: 1495653690
+      forestyback_184: -1821466765
+      forestyback_146: 1982317012
+      forestyback_138: 2121495642
+      forestyback_30: 909723365
+      forestyback_9: 1487426782
+      forestyback_93: 114849427
+      forestyback_36: 674744828
+      forestyback_44: -1533723100
+      forestyback_124: -942459533
+      forestyback_14: -1391619613
+      forestyback_96: 1355017219
+      forestyback_49: -747560281
+      forestyback_42: 2075927232
+      forestyback_32: 1214952903
+      forestyback_84: -1019745703
+      forestyback_118: 2145737842
+      forestyback_191: 238388942
+      forestyback_70: 2142215792
+      forestyback_119: -177485366
+      forestyback_137: 1790354540
+      forestyback_149: 514175415
+      forestyback_24: 159375952
+      forestyback_52: -1282921559
+      forestyback_95: -1594934656
+      forestyback_21: -553950409
+      forestyback_111: -1031088781
+      forestyback_51: -1637415284
+      forestyback_134: 58373578
+      forestyback_114: -1278970574
+      forestyback_64: -2088619060
+      forestyback_10: -1135683605
+      forestyback_67: -712219844
+      forestyback_99: -448335180
+      forestyback_155: 1275934175
+      forestyback_115: -168704892
+      forestyback_190: 1838427762
+      forestyback_140: -2117826369
+      forestyback_129: 613590345
+      forestyback_188: -1402281502
+      forestyback_165: 1240786681
+      forestyback_47: 1721111236
+      forestyback_74: 188999850
+      forestyback_171: -445050435
+      forestyback_187: -1209272381
+      forestyback_186: -1622836376
+      forestyback_66: -996840603
+      forestyback_77: 1698156344
+      forestyback_37: -491362295
+      forestyback_27: 619337543
+      forestyback_18: 136740255
+      forestyback_151: 640694682
+      forestyback_35: 153707403
+      forestyback_68: 686844846
+      forestyback_136: 210218614
+      forestyback_31: 577425810
+      forestyback_182: 205045882
+      forestyback_61: 1660614497
+      forestyback_73: 1178195633
+      forestyback_150: -737614532
+      forestyback_159: 545325395
+      forestyback_69: -794900885
+      forestyback_128: 513284702
+      forestyback_92: -1153743534
+      forestyback_110: -1550706386
+      forestyback_60: 1144503977
+      forestyback_147: 188547208
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
